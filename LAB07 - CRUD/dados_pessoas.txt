@@ -1,0 +1,1 @@
+1,Samuel, 1.77, 66, 21.08, Peso normal
